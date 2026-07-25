@@ -1,0 +1,1 @@
+This lab demonstrates pulling the latest changes from the remote repository and pushing local commits back to the remote Git repository.
